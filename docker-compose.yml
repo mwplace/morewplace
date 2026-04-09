@@ -8,5 +8,5 @@ services:
     environment:
       POSTGRES_USER: user
       POSTGRES_PASSWORD: password
-      POSTGRES_DB: wplace
+      POSTGRES_DB: mwplace
     ports: ["5432:5432"]
